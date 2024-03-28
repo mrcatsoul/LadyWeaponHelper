@@ -1,0 +1,9 @@
+## Interface: 30300
+## Title: |cFF22ffaaLadyWeaponHelper|r
+## TitleShort: |cFF22ffaaLWH|r
+## Version: 0.69
+## Author: mrcatsoul (tg|ds|yt: mrcatsoul)
+## Notes: Links: https://github.com/mrcatsoul/LadyWeaponHelper
+## SavedVariables: CLWH_CoolLadyWeaponHelper_Settings
+
+LadyWeaponHelper.lua
